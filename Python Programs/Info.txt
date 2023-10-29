@@ -1,6 +1,15 @@
-####
-
-  SOLVED PROBLEMS IN PYTHON 
+####               SOLVED PROBLEMS IN PYTHON         #####
 
 
-#####
+Beginner Basic Problems :
+  1. Fibonacci Series
+  2. 
+  3.
+
+Coding Problems :
+  1. Infinite Monkey Theorem
+  2.
+
+Pattern Problems :
+  1. Right Pascal Triangle
+  2. Left Triangular
